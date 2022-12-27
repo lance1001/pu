@@ -12,6 +12,7 @@ int main()
 
 	FILE *fp;
 
+	printf("Alo\n");
 	f(&fp);
 
 	printf("=> [%x]\n", fp);
